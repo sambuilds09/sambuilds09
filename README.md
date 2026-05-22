@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on developing hands-on experience in Cloud Engineering and Artificial Intelligence through real-world projects. I am looking to collaborate on cloud-based applications and AI-driven solutions, and I am seeking guidance in areas like cloud deployment, DevOps practices, and machine learning model development.<br><br>💬 Ask me about: Cloud Computing, Machine Learning, and building scalable applications<br><br>⚡ Fun fact: I love building tech projects and learning something new every day
+I am currently working on developing hands-on experience in Cloud Engineering and Artificial Intelligence through real-world projects. I am looking to collaborate on cloud-based applications and AI-driven solutions, and I am seeking guidance in areas like cloud deployment, DevOps practices, and machine learning model development.<br><br>💬 Ask me about: Cloud Computing, Machine Learning, and building scalable applications<br><br>
 
 
 ## 🌐 Socials:
